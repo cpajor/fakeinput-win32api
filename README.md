@@ -1,1 +1,1 @@
-# fakeinput-win32api
+# implementacja windows.h pod tzw. "autoclicker"
